@@ -63,7 +63,8 @@ public class JPTV21Array {
             }
             System.out.println("");
             numsumi = numsumi + nums2[i][0];
-            
+            System.out.println("sum = "+numsum1);
+
         }
         System.out.println("sum = "+numsumi);
         System.out.println("");
